@@ -14,4 +14,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
 
-
+Tools
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntellijIDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Naver Clovine-03C75A?style=flat&logo=Naver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
