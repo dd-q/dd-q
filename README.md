@@ -3,6 +3,6 @@
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/React-34A853?style=flat&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=Android&logoColor=white"/>
 
 
